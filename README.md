@@ -1,8 +1,17 @@
-# React + Vite
+# Web Carrito de Compras
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Enlace : https://cfp-carrito-de-compras.netlify.app
 
-Currently, two official plugins are available:
+#
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Información :
+- Web ficticia con muchos productos los cuales se agregan a un carrito de compras. Se pueden agregar tantos como se quiera y tambien se pueden aumentar o disminuir desde el carrito.
+- El carrito muestra un calculo total de los productos seleccionados hasta el momento.
+
+Nota :
+- Click en donde dice "Carrito de Compras" en el Navbar (del lado izquierdo) para ver todos los productos.
+- Click en el Icono del Carrito en el Navbar (del lado derecho) para ver los productos ya seleccionados.
+
+#
+
+Realizado con : Vite + React + JavaScript
