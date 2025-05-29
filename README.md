@@ -5,7 +5,8 @@ Enlace : https://cfp-carrito-de-compras.netlify.app
 #
 
 Información :
-- Web ficticia con muchos productos los cuales se agregan a un carrito de compras. Se pueden agregar tantos como se quiera y tambien se pueden aumentar o disminuir desde el carrito.
+- Web ficticia con muchos productos los cuales se agregan a un carrito de compras.
+- Desde el carrito se puede aumentar o disminuir la cantidad de los productos ya seleccionados.
 - El carrito muestra un calculo total de los productos seleccionados hasta el momento.
 
 Nota :
